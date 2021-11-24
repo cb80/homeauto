@@ -1,1 +1,1 @@
-# homeauto
+# Automation scripts at home
